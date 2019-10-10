@@ -21,7 +21,7 @@ echo " ▀▀    ▀▀     ▀▀▀▀      ▀▀▀▀   ▀▀   ▀▀▀ 
 echo "                                                    ███$k\n"
 sleep 2
 echo "========================<Welcome To Rohman Project>========================\n"
-echo $c'Author By       '$re':'$g' Faishol Rochman'$re'              ©Kadal-15'
+echo $c'Author By       '$re':'$g' Faishol Rochman'$re'              ©Rochman_Project'
 echo $c'Telegram        '$re':'$g' 083856539185'$re'          v 1.0'
 echo $c'Whatsapp        '$re':'$g' 085708903896'
 echo $c'Channel Youtube '$re':'$g' Rohman Music'
