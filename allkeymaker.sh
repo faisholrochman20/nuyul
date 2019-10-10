@@ -61,7 +61,7 @@ do
      while [ $ulang0 != 'y' ] && [ $ulang0 != 'Y' ] && [ $ulang0 != 't' ] && [ $ulang0 != 'T' ];
      do
        echo $g'Ops, Isi Dengan'$k '('$re'Y/T'$k')'$re
-       read -p "Kadal-15 ~# " ulang0;
+       read -p "Rohman_Project ~# " ulang0;
        sleep 0.5
      done
 done
