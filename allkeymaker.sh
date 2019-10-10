@@ -20,12 +20,12 @@ echo " ▄██  ██▄    ██▄▄▄     ██▄▄▄   ██  ▀
 echo " ▀▀    ▀▀     ▀▀▀▀      ▀▀▀▀   ▀▀   ▀▀▀    ▀▀▀▀▀      ██"
 echo "                                                    ███$k\n"
 sleep 2
-echo "========================<Welcome To Allkey Maker>========================\n"
-echo $c'Author By       '$re':'$g' Kadal-15'$re'              ©Kadal-15'
-echo $c'Telegram        '$re':'$g' 085336117892'$re'          v 1.0'
-echo $c'Whatsapp        '$re':'$g' 085336117892'
-echo $c'Channel Youtube '$re':'$g' Jejaka Kampret'
-echo $c'Team            '$re':'$g' KadalCyber'
+echo "========================<Welcome To Rohman Project>========================\n"
+echo $c'Author By       '$re':'$g' Faishol Rochman'$re'              ©Kadal-15'
+echo $c'Telegram        '$re':'$g' 083856539185'$re'          v 1.0'
+echo $c'Whatsapp        '$re':'$g' 085708903896'
+echo $c'Channel Youtube '$re':'$g' Rohman Music'
+echo $c'IG              '$re':'$g' faishol_rochman20'
 sleep 1
 echo $k'Ini adalah Tools Untuk Membuat Allkey\n\n'
 echo "list Faucet"
